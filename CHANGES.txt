@@ -9,4 +9,3 @@ TODO: List here all the changes you made to given template to adapt it to your n
 6. Under "testimonials", I switched to "reviews" from people who I have work with or were clients to, again, emphiszes more my freelaning carrer as a UI/UX developer. 
 7. Under FAQ, I thought it would be interesting to give more basic questions about how I make websites and generic questions clients ask me. 
 8. At the bottom of the page, I change the user input into "contact me" in case users were curious as of any work they need help with or want to connect.  
-9. Added a new web developer section (removed companies) to just show moew of my freelancing work.
