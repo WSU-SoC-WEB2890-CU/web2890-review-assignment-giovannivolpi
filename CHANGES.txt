@@ -1,1 +1,12 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+1. Change the home page video with portrait of myself. I want people to know who I am and what this website is about.
+2. Used boostrap to edit the image width for the portrait. 
+3. Used an "a" link for the "Get in Touch" button to make it scroll all the way down to the contact me section of the portfolio.
+   I did this to add more interaction with the website, and since we are working with one page only, it would make it more entertaining to add this feature.
+4. Added "my jounrey" to give more empahsis about how I strive in success and what keeps me going!
+5. Under "web development" I emphasize about my freelance career and to adverstise it more to users who will view my page. 
+6. Under "testimonials", I switched to "reviews" from people who I have work with or were clients to, again, emphiszes more my freelaning carrer as a UI/UX developer. 
+7. Under FAQ, I thought it would be interesting to give more basic questions about how I make websites and generic questions clients ask me. 
+8. At the bottom of the page, I change the user input into "contact me" in case users were curious as of any work they need help with or want to connect.  
+9. Added a new web developer section (removed companies) to just show moew of my freelancing work.
