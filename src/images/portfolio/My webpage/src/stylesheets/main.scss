@@ -1,0 +1,30 @@
+// Your styles go here
+@import "bootstrap/scss/bootstrap";
+@import "@fortawesome/fontawesome-free/css/all.css";
+
+
+/*-----------index-----------*/
+
+.title1{
+    padding: 150px;
+}
+
+h1{
+    font-size: 200px;
+}
+
+.card{
+    background-color: lightgray;
+}
+
+footer{
+    background-color: darkgray;
+    padding: 20px;
+}
+
+/*-----------Projects-----------*/
+
+.title2{
+    text-align: center;
+    padding: 150px;
+}
